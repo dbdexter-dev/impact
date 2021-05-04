@@ -1,0 +1,4 @@
+**/callgrind.out.*
+**/tags
+build/
+debug/
